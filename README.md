@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  Blockchain | FullStack Engineer
+  FullStack Engineer
 </h4>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=phantom0109&&style=flat-square)  
@@ -48,34 +48,6 @@
   <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
   
 </p>
-
-## 🧑 About me:
-
-<p>
-Dynamic and results-oriented Senior Blockchain Developer with 6 years of experience in designing,
-developing, and implementing blockchain solutions. Proficient in blockchain technologies such as
-Ethereum, Hyperledger Fabric, and Solidity smart contracts. Skilled in developing decentralized
-applications (DApps), implementing consensus algorithms, and integrating blockchain with enterprise
-systems. Strong background in cryptography, secure coding practices, and blockchain security. Adept
-at leading cross-functional teams and collaborating with stakeholders to deliver innovative blockchain
-solutions that drive business growth.
-
-</p>
-
-<h2>🥇 Specialised in:</h2>
-
-- 👈 I have expertise in smart contract and web3 integration.  
-  
-
-- 👀 I’m interested in blockchain with Python & Golang world.  
-  
-
-- 🌱 Passionate about development and coding.  
-  
-
-- 💞️ I’m looking to collaborate on Blockchain/Artificial Intelligence development.  
-
-- ⭐ Everyone says that I was born to advance the blockchain era.
 
 <h3 align="center"><img src="Images/Static/code.gif" height="20"/> Tech & Tools</h3>
 
