@@ -2,11 +2,7 @@
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
 </h2>
 
-<h4 align='center'>
-  FullStack Engineer
-</h4>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=phantom0109&&style=flat-square)  
 <!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=66E40271&center=true&vCenter=true&random=false&width=500&lines=SENIOR+FULL-STACK+and+WEB3+DEVELOPER;SUCCESS+%3D+SKILLS+%2B+PASSIONATE)](https://github.com/dynaput247) -->
 
@@ -131,11 +127,9 @@
 <p align="center">
   <!-- <a href="https://www.linkedin.com/in/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a> -->
   &nbsp;&nbsp;
-  <a href="mailto:owen.u410@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/bh4WKkVJWClM" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/owenhere410" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://t.me/pure403" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
   <!-- <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a> -->
   
